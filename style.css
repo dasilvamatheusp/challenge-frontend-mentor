@@ -100,7 +100,6 @@ main {
 .summary>.stats {
     margin-top: 15px;
     margin-bottom: 1px;
-    padding: 0px px;
     display: flex;
     flex-direction: column;
     gap: 50px;
@@ -197,7 +196,7 @@ span.max {
 
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 655px) {
     body {
         background-color: hsl(0, 0%, 100%);
         display: flex;
