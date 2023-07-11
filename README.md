@@ -1,2 +1,2 @@
-# challenge-frontend-mentor
+# frontend-mentor-challenge
  
